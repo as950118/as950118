@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 16
       - name: Install dependencies
-        run: npm ci
+        run: npm install  # Change this from `npm ci` to `npm install` if package-lock.json is not available
       - name: Update README
         run: npm start
       - name: Create date.txt
