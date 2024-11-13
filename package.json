@@ -1,0 +1,24 @@
+{
+  "name": "as950118",
+  "version": "1.0.0",
+  "description": "<!-- **as950118/as950118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "blogUpdate.js",
+  "type": "module",
+  "scripts": {
+    "start": "node blogUpdate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as950118/as950118.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/as950118/as950118/issues"
+  },
+  "homepage": "https://github.com/as950118/as950118#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
