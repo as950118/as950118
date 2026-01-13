@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ideo)](https://solved.ac/ideo/)
-![HeonJin's GitHub stats]([https://github-readme-stats.vercel.app/api?username=as950118&show_icons=true&theme=radical](https://github-readme-stats-fast.vercel.app/api?username=as950118&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))
+![HeonJin's GitHub stats]([https://github-readme-stats.vercel.app/api?username=as950118&show_icons=true&theme=radical](https://github-readme-stats-fast.vercel.app/api?username=as950118&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)])
